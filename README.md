@@ -1,1 +1,5 @@
-# ML_engineering_playground
+# Data
+
+## Labelling
+
+https://madewithml.com/courses/mlops/labeling/
